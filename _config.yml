@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://tga-development.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: ThommieLOL # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -75,7 +75,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: # now only supports 'goatcounter'
+  provider: https://thommielol-devstats-tga.goatcounter.com/counter # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
