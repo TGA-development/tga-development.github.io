@@ -15,8 +15,5 @@ We've released an entirely new map and much more!!
 
 # post coming soon!
 no peaking 👀
----
-image:
-  path: /files/images/newMap_banner.png
-  alt: teaser banner
----
+
+![Desktop View](/files/images/newMap_banner.png)
