@@ -16,4 +16,4 @@ We've released an entirely new map and much more!!
 # post coming soon!
 no peaking 👀
 
-![Desktop View](/files/images/newMap_banner.png)
+![Desktop View](https://i.imgur.com/DPfmpxp.png)
